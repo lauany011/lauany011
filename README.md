@@ -1,16 +1,15 @@
-### Hi there 👋
+bem vindos ao meu perfil 🤎
 
-<!--
-**lauany011/lauany011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lauany Vitória
 
-Here are some ideas to get you started:
+- Estou estudando na plataforma [Alura](https://www.alura.com.br)
+- Estou me desemvolvendo na linguagem Javascript;
+- Utilizo desse espaço para uma melhor organização e compartilhamento dos meu projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### para entrar em contato comigo 📪
+
+  00001085514511sp@al.educacao.sp.gov.br
+  
+  @lauany.vitória.03
+
+![](  https://media1.tenor.com/m/Oelkr641bxwAAAAd/one-piece-brook-one-piece.gif)
